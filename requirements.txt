@@ -1,2 +1,3 @@
 python-dotenv
 langchain_openai
+langchain_milvus
